@@ -17,8 +17,8 @@
 <a href="https://bmj1988.github.io/">Visit my portfolio site</a>
 - 📛 My name is Brian and I'm a full stack Software Engineer
 - 🔭 I'm currently working on leetcode problems, and an AWS course.
-- 🌱 I'm currently learning AWS and Mandarin.
-- 📖 I'm currently reading The Gods Themselves by Isaac Asimov
+- 🌱 I'm currently learning AWS and Mandarin Chinese.
+- 📖 I'm currently reading The Red Book by Carl Jung.
 - 📨 You can reach me on <a href="https://www.linkedin.com/in/brian-johnson-220704299/">LinkedIn</a>, and <a href="https://calendly.com/cjcores/30min">Calendly</a>.
 
 ---
