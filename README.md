@@ -18,7 +18,7 @@
 - 📛 My name is Brian and I'm a full stack Software Engineer
 - 🔭 I'm currently working on the mobile frontend of my capstone.
 - 🌱 I'm currently learning Icelandic.
-- 📖 I'm currently reading For Whom the Bell Tolls.
+- 📖 I'm currently reading Power Broker.
 - 📨 You can reach me on <a href="https://www.linkedin.com/in/brian-johnson-220704299/">LinkedIn</a>, and <a href="https://calendly.com/cjcores/30min">Calendly</a>.
 
 ---
